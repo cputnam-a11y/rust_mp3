@@ -1,0 +1,1 @@
+/Users/charliefocus/Desktop/DeskBottom/Projects/CODE/rust_mp3/target/wasm32-unknown-unknown/release/librust_mp3.rlib: /Users/charliefocus/Desktop/DeskBottom/Projects/CODE/rust_mp3/src/lib.rs /Users/charliefocus/Desktop/DeskBottom/Projects/CODE/rust_mp3/src/utils.rs
